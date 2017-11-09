@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Order and Chaos</string>
+    <string name="aboutText">This app was created by William Kersten in November, 2017.</string>
+    <string name="title_activity_game">Order and Chaos</string>
+
+    <string name="playAgain">Play Again?</string>
+    <string name="quit">Quit to Menu</string>
+    <string name="chaosWins">Chaos Wins!</string>
+    <string name="orderWins">Order Wins!</string>
+    <string name="X">X</string>
+    <string name="O">O</string>
+    <string name="pieceToPlace">Piece to Place:</string>
+    <string name="gridSquareContentDescription">a square on the grid.</string>
+</resources>
